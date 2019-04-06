@@ -13,5 +13,5 @@ This project tracks how bikes were shared in 3 cities. It breaks the report into
 /pdsnd_github/README.md
 
 ### Credits
-[Original repository](https://github.com/udacity/pdsnd_github "Original repository"). 
+[Original repository](https://github.com/udacity/pdsnd_github). 
 
