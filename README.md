@@ -3,10 +3,10 @@ Project created: 04-06-2019
 README created: 04-06-2019
 
 ### Project Title
-Replace the Project Title
+pdsnd_github
 
 ### Description
-Describe what your project is about and what it does
+This project tracks how bikes were shared in 3 cities.
 
 ### Files used
 Include the files used
