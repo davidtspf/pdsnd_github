@@ -164,7 +164,7 @@ def user_stats(df):
     # Display counts of gender
     if 'Gender' in df:
         count_gender = df.groupby('Gender').size()
-        print('The counts of gender:', count_gender)
+        print('Gender count:', count_gender)
 
     # Display earliest, most recent, and most common year of birth
     if 'Birth Year' in df:
