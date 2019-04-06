@@ -13,5 +13,5 @@ bikeshare_21.py
 README.md
 
 ### Credits
-https://github.com/udacity/pdsnd_github
+[Original repository](https://github.com/udacity/pdsnd_github "Original repository"). 
 
