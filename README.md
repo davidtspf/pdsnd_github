@@ -1,17 +1,17 @@
 ### Date created
-Project: 04-06-2019
+Project 04-06-2019
 README: 04-06-2019
 
 ### Project Title
 pdsnd_github
 
 ### Description
-This project tracks how bikes were shared in 3 cities.
+This project tracks how bikes were shared in 3 cities. It breaks the report into different statistical analyses.
 
 ### Files used
-bikeshare_21.py
-README.md
+/pdsnd_github/bikeshare_21.py
+/pdsnd_github/README.md
 
 ### Credits
-[Original repository](https://github.com/udacity/pdsnd_github "Original repository"). 
+[Original repository](https://github.com/udacity/pdsnd_github). 
 
