@@ -1,5 +1,5 @@
 ### Date created
-Project created: 04-06-2019
+Project: 04-06-2019
 README created: 04-06-2019
 
 ### Project Title
