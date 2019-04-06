@@ -1,6 +1,6 @@
 ### Date created
 Project: 04-06-2019
-README created: 04-06-2019
+README: 04-06-2019
 
 ### Project Title
 pdsnd_github
