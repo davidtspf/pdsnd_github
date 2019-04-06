@@ -159,12 +159,12 @@ def user_stats(df):
 
     # Display counts of user types
     count_user_types = df.groupby('User Type').size()
-    print('The counts of user types:', count_user_types)
+    print('Counts of user types:', count_user_types)
 
     # Display counts of gender
     if 'Gender' in df:
         count_gender = df.groupby('Gender').size()
-        print('The counts of gender:', count_gender)
+        print('Gender count:', count_gender)
 
     # Display earliest, most recent, and most common year of birth
     if 'Birth Year' in df:
@@ -200,7 +200,7 @@ def main():
         user_stats(df)
         data(df)
 
-        restart = input('\nWould you like to restart? Enter yes or no.\n')
+        restart = input('Restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
 
