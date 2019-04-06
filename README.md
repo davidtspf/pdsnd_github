@@ -9,8 +9,8 @@ pdsnd_github
 This project tracks how bikes were shared in 3 cities. It breaks the report into different statistical analyses.
 
 ### Files used
-bikeshare_21.py
-README.md
+/pdsnd_github/bikeshare_21.py
+/pdsnd_github/README.md
 
 ### Credits
 [Original repository](https://github.com/udacity/pdsnd_github "Original repository"). 
