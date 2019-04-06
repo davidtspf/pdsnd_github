@@ -29,7 +29,7 @@ def get_filters():
     month = ''
 
     while month not in ('all', 'january', 'february', 'march', 'april', 'may', 'june'):
-        month = input('Which month do you want? (all, january, february, ... , june): ').lower()
+        month = input('Which month? (all, january, february, ... , june): ').lower()
 
     print(month)
 
